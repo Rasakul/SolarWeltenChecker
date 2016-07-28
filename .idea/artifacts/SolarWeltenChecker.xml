@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="SolarWeltenChecker">
+    <output-path>$PROJECT_DIR$/out/artifacts/SolarWeltenChecker</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="at.l2d2.Main" />
+        <option name="description" value="" />
+        <option name="htmlParamFile" value="" />
+        <option name="paramFile" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="SolarWeltenChecker.jar">
+        <element id="module-output" name="SolarWeltenChecker" />
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.opencsv:opencsv:3.6" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.3.2" />
+          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.2" />
+          <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.2" />
+          <element id="library" level="project" name="Maven: org.controlsfx:controlsfx:8.40.11" />
+          <element id="library" level="project" name="Maven: org.jsoup:jsoup:1.9.2" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.12" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-simple:1.7.12" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
