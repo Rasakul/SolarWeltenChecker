@@ -70,7 +70,7 @@
 
     <properties>
         <!-- Logging -->
-        <log4j.version>2.2</log4j.version>
+        <log4j.version>2.13.2</log4j.version>
         <sl4j.version>1.7.12</sl4j.version>
         <!-- Maven plugins -->
         <mvn-compiler.version>3.1</mvn-compiler.version>
